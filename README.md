@@ -9,7 +9,9 @@
    
 ### 1. Tortoise TTS
 -> Give text and audio's folder path as input
+
 -> Run the tortise_tts.py
+
 -> Store results and use them in the second part
 
 ### 2. Mri Video Generation

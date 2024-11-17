@@ -17,4 +17,5 @@
 ### 2. Mri Video Generation
 
 -> Training: run the mri_train.py
+
 -> Generation: run the generate_mri.py
